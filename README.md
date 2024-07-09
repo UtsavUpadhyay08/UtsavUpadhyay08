@@ -16,7 +16,7 @@
 | <a href="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08" alt="Utsav's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> |
 | ------------- | ------------- |
 | <a href="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false" alt="Utsav's streak stats" /></a> | <a href="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay" alt="Utsav's Codeforces stats" /></a> |
-| <a href="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest"><img align="center" src="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest" alt="Utsav's LeetCode stats" /></a> | |
+| <a href="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest"><img align="center" src="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest" alt="Utsav's LeetCode stats" /></a> |
 
 
 ---
