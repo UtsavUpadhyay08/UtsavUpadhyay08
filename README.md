@@ -7,12 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsavup/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/utsav08_) 
 
 # 📊 GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08)         ![](https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay)
-![](https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay)       ![](https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest)
 
 
 # 💻 Tech Stack:
