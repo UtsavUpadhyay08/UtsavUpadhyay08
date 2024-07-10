@@ -23,6 +23,9 @@
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=utsav_upadhyay)
 [![](https://visitcount.itsvg.in/api?id=UtsavUpadhyay08&icon=0&color=0)](https://visitcount.itsvg.in)
+![Badge](https://cp-logo.vercel.app/codechef/utsav_upadhyay?logo=true)
+![Badge](https://cp-logo.vercel.app/leetcode/utsav_upadhyay?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/utsav_upadhyay?logo=true)
 
 <!--
 **UtsavUpadhyay08/UtsavUpadhyay08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
