@@ -12,20 +12,20 @@
 
 
 # 📊 Statistics:
-
-| <a href="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08" alt="Utsav's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> |
+|<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavUpadhyay08&theme=github_dark"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavUpadhyay08&theme=github_dark" alt="Utsav's Github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> |
 | ------------- | ------------- |
 | <a href="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false" alt="Utsav's streak stats" /></a> | <a href="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay" alt="Utsav's Codeforces stats" /></a> |
-| <a href="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest"><img align="center" src="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest" alt="Utsav's LeetCode stats" /></a> |
+| <a href="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest"><img align="center" src="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest" alt="Utsav's LeetCode stats" /></a>| <a href="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08" alt="Utsav's github stats" /></a> |
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavUpadhyay08&custom_title=Utsav%20Upadhyay%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
 
 ---
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=utsav_upadhyay)
 [![](https://visitcount.itsvg.in/api?id=UtsavUpadhyay08&icon=0&color=0)](https://visitcount.itsvg.in)
-![Badge](https://cp-logo.vercel.app/codechef/utsav_upadhyay?logo=true)
-![Badge](https://cp-logo.vercel.app/leetcode/utsav_upadhyay?logo=true)
-![Badge](https://cp-logo.vercel.app/atcoder/utsav_upadhyay?logo=true)
+![Codechef Badge](https://cp-logo.vercel.app/codechef/utsav_upadhyay?logo=true)
+![Leetcode Badge](https://cp-logo.vercel.app/leetcode/utsav_upadhyay?logo=true)
+![Atcoder Badge](https://cp-logo.vercel.app/atcoder/utsav_upadhyay?logo=true)
 
 <!--
 **UtsavUpadhyay08/UtsavUpadhyay08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
