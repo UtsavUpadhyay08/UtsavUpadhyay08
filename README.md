@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on Node.js<br>
 - 🤔 I’m looking for help with Open Source development<br>
 - 💬 Ask me about Competitve Programming<br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utsavup/), [Twitter](https://x.com/utsav08_) and [Instagram](https://instagram.com/utsav08_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utsavup/), [X](https://x.com/utsav08_) and [Instagram](https://instagram.com/utsav08_)
 
 # Projects  
 
@@ -49,9 +49,6 @@
 </a>
 <a href="https://github.com/UtsavUpadhyay08" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/utsav08_" >
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
  <a href="https://instagram.com/utsav08_">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
