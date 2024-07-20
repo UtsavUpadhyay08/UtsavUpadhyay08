@@ -39,13 +39,16 @@
 
 # Education
 - Currently, pursuing **B.Tech.** *in Computer Science and Technology with specialization in AI & ML* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
-- **2021 :** Completed my Class 12<sup>th</sup> (Intermediate) from Central Board of Secondary Education,New Delhi,India.
-- **2019 :** Completed my Class 10<sup>th</sup> from Central Board of Secondary Education,New Delhi,India.
+- **2021 :** Completed my Class 12<sup>th</sup> (Intermediate) from Central Board of Secondary Education, New Delhi, India.
+- **2019 :** Completed my Class 10<sup>th</sup> from Central Board of Secondary Education, New Delhi, India.
   
 # Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/utsavup/" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/utsav08_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/UtsavUpadhyay08" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
