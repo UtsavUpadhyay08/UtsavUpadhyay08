@@ -11,10 +11,11 @@
 # Projects  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=seed_bank&theme=highcontrast)](https://github.com/UtsavUpadhyay08/seed_bank)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=wcat_commands&theme=highcontrast)](https://github.com/UtsavUpadhyay08/wcat_commands)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Github_issue_scraper&theme=highcontrast)](https://github.com/UtsavUpadhyay08/Github_issue_scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=wcat_commands&theme=nightowl)](https://github.com/UtsavUpadhyay08/wcat_commands)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Github_issue_scraper&theme=nightowl)](https://github.com/UtsavUpadhyay08/Github_issue_scraper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=FileOrganiser&theme=highcontrast)](https://github.com/UtsavUpadhyay08/FileOrganiser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Cp_template&theme=highcontrast)](https://github.com/UtsavUpadhyay08/Cp_template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=E_commerce&theme=nightowl)](https://github.com/UtsavUpadhyay08/E_commerce)
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=utsav_upadhyay)
 [![](https://visitcount.itsvg.in/api?id=UtsavUpadhyay08&icon=0&color=0)](https://visitcount.itsvg.in)
