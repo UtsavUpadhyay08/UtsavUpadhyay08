@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=FileOrganiser&theme=highcontrast)](https://github.com/UtsavUpadhyay08/FileOrganiser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Cp_Algorithms&theme=highcontrast)](https://github.com/UtsavUpadhyay08/Cp_Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=E_commerce&theme=nightowl)](https://github.com/UtsavUpadhyay08/E_commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Hackerrank_Automation_Tool&theme=nightowl)](https://github.com/UtsavUpadhyay08/Hackerrank_Automation_Tool)
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=utsav_upadhyay)
 [![](https://visitcount.itsvg.in/api?id=UtsavUpadhyay08&icon=0&color=0)](https://visitcount.itsvg.in)
