@@ -1,73 +1,93 @@
-# Hi there 👋
-
-###  I am Utsav Upadhyay 
-- 🔭 I'm a Backend developer<br>
-- 👯 I’m looking to collaborate on Backend projects<br>
-- 🌱 I’m currently working on Node.js<br>
-- 🤔 I’m looking for help with Open Source development<br>
-- 💬 Ask me about Competitve Programming<br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utsavup/), [X](https://x.com/utsav08_) and [Instagram](https://instagram.com/utsav08_)
-
-# Projects  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=seed_bank&theme=highcontrast)](https://github.com/UtsavUpadhyay08/seed_bank)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=wcat_commands&theme=nightowl)](https://github.com/UtsavUpadhyay08/wcat_commands)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Github_issue_scraper&theme=nightowl)](https://github.com/UtsavUpadhyay08/Github_issue_scraper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=FileOrganiser&theme=highcontrast)](https://github.com/UtsavUpadhyay08/FileOrganiser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Cp_Algorithms&theme=highcontrast)](https://github.com/UtsavUpadhyay08/Cp_Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=E_commerce&theme=nightowl)](https://github.com/UtsavUpadhyay08/E_commerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Hackerrank_Automation_Tool&theme=nightowl)](https://github.com/UtsavUpadhyay08/Hackerrank_Automation_Tool)
-
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=utsav_upadhyay)
-[![](https://visitcount.itsvg.in/api?id=UtsavUpadhyay08&icon=0&color=0)](https://visitcount.itsvg.in)
-![Leetcode Badge](https://cp-logo.vercel.app/leetcode/utsav_upadhyay?logo=true)
-![Atcoder Badge](https://cp-logo.vercel.app/atcoder/utsav_upadhyay?logo=true)
-
-
-# Statistics:
-| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavUpadhyay08&theme=dark&hide_border=false" alt="Utsav's streak stats" /></a>|
-| ------------- | ------------- |
-| <a href="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=utsav_upadhyay" alt="Utsav's Codeforces stats" /></a>|<a href="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest"><img align="center" src="https://leetcard.jacoblin.cool/utsav_upadhyay?ext=contest" alt="Utsav's LeetCode stats" /></a>|
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavUpadhyay08&custom_title=Utsav%20Upadhyay%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-# Education
-- Currently, pursuing **B.Tech.** *in Computer Science and Technology with specialization in AI & ML* from **JSS Academy of Techinal Education, Noida, UP, India - 201301**
-- **2021 :** Completed my Class 12<sup>th</sup> (Intermediate) from Central Board of Secondary Education, New Delhi, India.
-- **2019 :** Completed my Class 10<sup>th</sup> from Central Board of Secondary Education, New Delhi, India.
-  
-# Connect with me  
-<div align="center">
- <a href="https://www.linkedin.com/in/utsavup/" >
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/utsav08_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/UtsavUpadhyay08" >
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://instagram.com/utsav08_">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/utsavup/">
+  <img src="./assets/header.svg" width="100%" alt="Utsav Upadhyay, Software Engineer at ION Trading: trading connectivity and low-latency backends" />
 </a>
 
-</div><br>
-<!--
-**UtsavUpadhyay08/UtsavUpadhyay08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/utsavup/"><img src="https://img.shields.io/badge/LinkedIn-utsavup-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/utsav_upadhyay"><img src="https://img.shields.io/badge/Codeforces-Expert-0B0F14?style=for-the-badge&logo=codeforces&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/utsav_upadhyay/"><img src="https://img.shields.io/badge/LeetCode-utsav__upadhyay-0B0F14?style=for-the-badge&logo=leetcode&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="LeetCode" /></a>
+  <a href="https://atcoder.jp/users/utsav_upadhyay"><img src="https://img.shields.io/badge/AtCoder-utsav__upadhyay-0B0F14?style=for-the-badge&logoColor=E6EDF3&labelColor=0B0F14&color=1F2937" alt="AtCoder" /></a>
+  <a href="https://x.com/utsav08_"><img src="https://img.shields.io/badge/X-utsav08__-0B0F14?style=for-the-badge&logo=x&logoColor=E6EDF3&labelColor=0B0F14&color=1F2937" alt="X" /></a>
+</p>
 
-Here are some ideas to get you started:
+<img src="./assets/achievements.svg" width="100%" alt="Codeforces Expert · ICPC Regionals 2023 · Amazon HackOn S3 Top 50 · ION Trading since 2025" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## `$ cat about.yaml`
 
-![Codechef Badge](https://cp-logo.vercel.app/codechef/utsav_upadhyay?logo=true)
---> 
+```yaml
+engineer:
+  name:      Utsav Upadhyay
+  role:      Software Engineer, Fixed Income Connectivity @ ION Trading
+  based_in:  Noida, India
+  focus:     [trading connectivity, low-latency backends, distributed systems]
+
+shipped:
+  - FIX 4.4 connectivity to new trading venues, from logon to order flow
+  - Integrations with electronic bond-trading platforms through vendor APIs
+  - C# trading plugins running in production
+  - Jenkins CI/CD pipelines for release automation
+
+competitive_programming:
+  codeforces:       Expert            # utsav_upadhyay
+  icpc:             Regionals 2023
+  amazon_hackon_s3: Top 50 nationally (+ internship offer)
+  also_on:          [LeetCode, AtCoder, CodeChef]
+
+education:   B.Tech CSE (AI & ML), JSS Academy of Technical Education, Noida, 2021–2025
+building:    Build-or-Not, a fault-tolerant multi-LLM evaluation pipeline (45 independent judges)
+currently:   Going deep on system design at scale: consistency, replication, partitioning
+```
+
+## `$ ls ./stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,ts,js,nodejs,express,react,vite,mongodb,docker,jenkins,git,linux&theme=dark&perline=14" alt="C++, C#, .NET, TypeScript, JavaScript, Node.js, Express, React, Vite, MongoDB, Docker, Jenkins, Git, Linux" />
+</p>
+
+## `$ ls ./projects --pinned`
+
+<a href="https://build-or-not.onrender.com/">
+  <img src="./assets/build-or-not.svg" width="100%" alt="Build-or-Not: 45 AI personas judge a startup idea independently and show where they disagree" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/UtsavUpadhyay08/Build-or-Not"><img src="https://img.shields.io/badge/Repo-Build--or--Not-0B0F14?style=for-the-badge&logo=github&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="Build-or-Not repo" /></a>
+  <a href="https://build-or-not.onrender.com/"><img src="https://img.shields.io/badge/Read-DESIGN.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Design notes" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/UtsavUpadhyay08/Cp_Algorithms"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Cp_Algorithms&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="Cp_Algorithms" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/seed_bank"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=seed_bank&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="seed_bank" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/E_commerce"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=E_commerce&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="E_commerce" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Github_issue_scraper"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Github_issue_scraper&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="Github_issue_scraper" /></a>
+</p>
+
+<details>
+  <summary><b>More of the projects</b> (CLI tools and automation)</summary>
+  <br>
+
+  - [Hackerrank_Automation_Tool](https://github.com/UtsavUpadhyay08/Hackerrank_Automation_Tool)
+  - [FileOrganiser](https://github.com/UtsavUpadhyay08/FileOrganiser)
+  - [wcat_commands](https://github.com/UtsavUpadhyay08/wcat_commands)
+</details>
+
+## `$ git log --stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&ring_color=00E58A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&count_private=true&hide_border=true&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UtsavUpadhyay08&hide_border=true&background=0B0F14&ring=00E58A&fire=F5B83D&currStreakLabel=00E58A&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=7D8590&stroke=1F2937" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavUpadhyay08&bg_color=0B0F14&color=7D8590&line=00E58A&point=F5B83D&area=true&area_color=00E58A&hide_border=true&custom_title=Contribution%20tape" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UtsavUpadhyay08&label=PROFILE%20VIEWS&color=00E58A&style=for-the-badge" alt="Profile views" />
+</p>
+
+<img src="./assets/footer.svg" width="100%" alt="Session closed. Thanks for stopping by." />
