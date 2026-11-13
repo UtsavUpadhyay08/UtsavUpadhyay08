@@ -46,20 +46,20 @@ currently:   Going deep on system design at scale: consistency, replication, par
 
 ## `$ ls ./projects --pinned`
 
-<a href="https://build-or-not.onrender.com/">
+<a href="https://github.com/UtsavUpadhyay08/Build-or-Not">
   <img src="./assets/build-or-not.svg" width="100%" alt="Build-or-Not: 45 AI personas judge a startup idea independently and show where they disagree" />
 </a>
 
 <p align="center">
   <a href="https://github.com/UtsavUpadhyay08/Build-or-Not"><img src="https://img.shields.io/badge/Repo-Build--or--Not-0B0F14?style=for-the-badge&logo=github&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="Build-or-Not repo" /></a>
-  <a href="https://build-or-not.onrender.com/"><img src="https://img.shields.io/badge/Read-DESIGN.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Design notes" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Build-or-Not/blob/main/DESIGN.md"><img src="https://img.shields.io/badge/Read-DESIGN.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Design notes" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UtsavUpadhyay08/Cp_Algorithms"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Cp_Algorithms&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="Cp_Algorithms" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/seed_bank"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=seed_bank&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="seed_bank" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/E_commerce"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=E_commerce&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="E_commerce" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/Github_issue_scraper"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UtsavUpadhyay08&repo=Github_issue_scraper&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&border_color=1F2937" alt="Github_issue_scraper" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Cp_Algorithms"><img width="49%" src="./assets/generated/pin-Cp_Algorithms.svg" alt="Cp_Algorithms" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/seed_bank"><img width="49%" src="./assets/generated/pin-seed_bank.svg" alt="seed_bank" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/E_commerce"><img width="49%" src="./assets/generated/pin-E_commerce.svg" alt="E_commerce" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Github_issue_scraper"><img width="49%" src="./assets/generated/pin-Github_issue_scraper.svg" alt="Github_issue_scraper" /></a>
 </p>
 
 <details>
@@ -73,9 +73,11 @@ currently:   Going deep on system design at scale: consistency, replication, par
 
 ## `$ git log --stats`
 
+<!-- Cards in assets/generated/ are rebuilt daily from the GitHub API by .github/workflows/profile-cards.yml -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UtsavUpadhyay08&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3&icon_color=F5B83D&ring_color=00E58A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavUpadhyay08&layout=compact&count_private=true&hide_border=true&bg_color=0B0F14&title_color=00E58A&text_color=E6EDF3" alt="Top languages" />
+  <img width="49%" src="./assets/generated/stats.svg" alt="GitHub stats" />
+  <img width="49%" src="./assets/generated/languages.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -83,7 +85,7 @@ currently:   Going deep on system design at scale: consistency, replication, par
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavUpadhyay08&bg_color=0B0F14&color=7D8590&line=00E58A&point=F5B83D&area=true&area_color=00E58A&hide_border=true&custom_title=Contribution%20tape" alt="Contribution graph" />
+  <img width="100%" src="./assets/generated/activity.svg" alt="Contribution graph" />
 </p>
 
 <p align="center">
