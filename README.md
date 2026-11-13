@@ -35,6 +35,7 @@ competitive_programming:
 
 education:   B.Tech CSE (AI & ML), JSS Academy of Technical Education, Noida, 2021–2025
 building:    Build-or-Not, a fault-tolerant multi-LLM evaluation pipeline (45 independent judges)
+demo:        https://build-or-not.onrender.com/
 currently:   Going deep on system design at scale: consistency, replication, partitioning
 ```
 
@@ -46,13 +47,15 @@ currently:   Going deep on system design at scale: consistency, replication, par
 
 ## `$ ls ./projects --pinned`
 
-<a href="https://github.com/UtsavUpadhyay08/Build-or-Not">
+<a href="https://build-or-not.onrender.com/">
   <img src="./assets/build-or-not.svg" width="100%" alt="Build-or-Not: 45 AI personas judge a startup idea independently and show where they disagree" />
 </a>
 
 <p align="center">
+  <a href="https://build-or-not.onrender.com/"><img src="https://img.shields.io/badge/Live_demo-Try_it-0B0F14?style=for-the-badge&logo=render&logoColor=0B0F14&labelColor=00E58A&color=1F2937" alt="Live demo" /></a>
   <a href="https://github.com/UtsavUpadhyay08/Build-or-Not"><img src="https://img.shields.io/badge/Repo-Build--or--Not-0B0F14?style=for-the-badge&logo=github&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="Build-or-Not repo" /></a>
   <a href="https://github.com/UtsavUpadhyay08/Build-or-Not/blob/main/DESIGN.md"><img src="https://img.shields.io/badge/Read-DESIGN.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Design notes" /></a>
+  <br><sub>Free-tier hosting: the first load can take ~30s while the server wakes up.</sub>
 </p>
 
 <p align="center">
