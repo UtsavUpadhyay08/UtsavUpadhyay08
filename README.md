@@ -56,10 +56,10 @@ currently:   Going deep on system design at scale: consistency, replication, par
 </p>
 
 <p align="center">
-  <a href="https://github.com/UtsavUpadhyay08/Cp_Algorithms"><img width="49%" src="./assets/generated/pin-Cp_Algorithms.svg" alt="Cp_Algorithms" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/seed_bank"><img width="49%" src="./assets/generated/pin-seed_bank.svg" alt="seed_bank" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/E_commerce"><img width="49%" src="./assets/generated/pin-E_commerce.svg" alt="E_commerce" /></a>
-  <a href="https://github.com/UtsavUpadhyay08/Github_issue_scraper"><img width="49%" src="./assets/generated/pin-Github_issue_scraper.svg" alt="Github_issue_scraper" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/CP_Algorithms"><img width="49%" src="./assets/generated/pin-cp_algorithms.svg" alt="CP_Algorithms" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Seed_Bank"><img width="49%" src="./assets/generated/pin-seed_bank.svg" alt="Seed_Bank" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/E_Commerce"><img width="49%" src="./assets/generated/pin-e_commerce.svg" alt="E_Commerce" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Github_issue_scraper"><img width="49%" src="./assets/generated/pin-github_issue_scraper.svg" alt="Github_issue_scraper" /></a>
 </p>
 
 <details>
