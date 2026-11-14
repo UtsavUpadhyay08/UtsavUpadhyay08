@@ -34,7 +34,7 @@ competitive_programming:
   also_on:          [LeetCode, AtCoder, CodeChef]
 
 education:   B.Tech CSE (AI & ML), JSS Academy of Technical Education, Noida, 2021–2025
-building:    Build-or-Not, a fault-tolerant multi-LLM evaluation pipeline (45 independent judges)
+building:    [Build-or-Not, Test My Trade]
 demo:        https://build-or-not.onrender.com/
 currently:   Going deep on system design at scale: consistency, replication, partitioning
 ```
@@ -56,6 +56,17 @@ currently:   Going deep on system design at scale: consistency, replication, par
   <a href="https://github.com/UtsavUpadhyay08/Build-or-Not"><img src="https://img.shields.io/badge/Repo-Build--or--Not-0B0F14?style=for-the-badge&logo=github&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="Build-or-Not repo" /></a>
   <a href="https://github.com/UtsavUpadhyay08/Build-or-Not/blob/main/DESIGN.md"><img src="https://img.shields.io/badge/Read-DESIGN.md-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Design notes" /></a>
   <br><sub>Free-tier hosting: the first load can take ~30s while the server wakes up.</sub>
+</p>
+
+<a href="https://github.com/UtsavUpadhyay08/Test-My-Trade">
+  <img src="./assets/test-my-trade.svg" width="100%" alt="Test My Trade: practice and evaluate Indian-market trading strategies using synthetic or your own price data" />
+</a>
+
+<p align="center">
+  <a href="https://test-my-trade.onrender.com/"><img src="https://img.shields.io/badge/Live_demo-Try_it-0B0F14?style=for-the-badge&logo=render&logoColor=0B0F14&labelColor=00E58A&color=1F2937" alt="Test My Trade live demo" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Test-My-Trade"><img src="https://img.shields.io/badge/Repo-Test--My--Trade-0B0F14?style=for-the-badge&logo=github&logoColor=00E58A&labelColor=0B0F14&color=1F2937" alt="Test My Trade repo" /></a>
+  <a href="https://github.com/UtsavUpadhyay08/Test-My-Trade#readme"><img src="https://img.shields.io/badge/Read-Project_overview-0B0F14?style=for-the-badge&logo=markdown&logoColor=F5B83D&labelColor=0B0F14&color=1F2937" alt="Project overview" /></a>
+  <br><sub>A browser-only practice tool; it does not place trades or provide financial advice.</sub>
 </p>
 
 <p align="center">

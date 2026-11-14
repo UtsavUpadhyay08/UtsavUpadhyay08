@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Test My Trade: build and evaluate trading strategies with synthetic or personal price data">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#141B24"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E58A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#00E58A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="389" rx="12" fill="#0B0F14" stroke="#1F2937"/>
+  <rect x="1" y="1" width="1198" height="388" rx="12" fill="url(#grid)"/>
+  <circle cx="850" cy="170" r="290" fill="url(#glow)"/>
+  <text x="54" y="55" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#F5B83D" letter-spacing="2">$ ./test-my-trade</text>
+  <text x="54" y="126" font-family="Segoe UI,-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="48" font-weight="800" fill="#E6EDF3">Test My Trade</text>
+  <text x="56" y="170" font-family="Segoe UI,-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="19" fill="#00E58A">Build a strategy. Test it before risking capital.</text>
+  <text x="56" y="218" font-family="Segoe UI,-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="16" fill="#AAB4C0">Practice for the Indian market with synthetic prices</text>
+  <text x="56" y="244" font-family="Segoe UI,-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="16" fill="#AAB4C0">or your own market data, then review a plain-language report.</text>
+  <rect x="56" y="286" width="166" height="34" rx="17" fill="#0F151C" stroke="#1F2937"/>
+  <circle cx="76" cy="303" r="5" fill="#00E58A"/>
+  <text x="91" y="308" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#E6EDF3">BROWSER-BASED</text>
+  <rect x="240" y="286" width="145" height="34" rx="17" fill="#0F151C" stroke="#1F2937"/>
+  <path d="M260 306l7-7 6 5 10-12" fill="none" stroke="#F5B83D" stroke-width="2"/>
+  <text x="292" y="308" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#E6EDF3">STRATEGY LAB</text>
+  <rect x="680" y="58" width="458" height="272" rx="12" fill="#0F151C" stroke="#1F2937"/>
+  <text x="710" y="91" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#7D8590">SIMULATION / PRICE TAPE</text>
+  <text x="1106" y="91" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#00E58A">SAMPLE RUN</text>
+  <path d="M710 250H1106M710 205H1106M710 160H1106M710 115H1106" stroke="#1F2937" stroke-dasharray="3 6"/>
+  <path d="M710 225L752 214 789 224 829 185 866 198 904 161 942 174 982 133 1020 152 1061 112 1106 125" fill="none" stroke="#00E58A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M710 225L752 214 789 224 829 185 866 198 904 161 942 174 982 133 1020 152 1061 112 1106 125V275H710Z" fill="#00E58A" fill-opacity=".06"/>
+  <circle cx="1106" cy="125" r="5" fill="#00E58A"/>
+  <text x="710" y="296" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#7D8590">SYNTHETIC DATA</text>
+  <text x="1106" y="296" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#7D8590">NO REAL ORDERS</text>
+</svg>
